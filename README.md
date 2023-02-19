@@ -47,7 +47,7 @@ I'm a Software Enginner Student from Tunisia.
 
 - 🔭 I’m currently studying at <b>ESPRIT Higher School of Engineering</b>
 
-- 🌱 I’m currently learning <b>Data Marketing , R, Data Mining and python</b> 
+- 🌱 I’m currently learning <b> Intelligence Artificielle, Machine Learning, Deep Learning, Data analyse, R, and python</b> 
 
 - 📫 How to reach me: <b>safa.kaabi@esprit.tn</b>
 
